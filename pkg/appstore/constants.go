@@ -19,6 +19,7 @@ const (
 	PrivateAppStoreAPIPathAuthenticate            = "/WebObjects/MZFinance.woa/wa/authenticate"
 	PrivateAppStoreAPIPathPurchase                = "/WebObjects/MZBuy.woa/wa/buyProduct"
 	PrivateAppStoreAPIPathDownload                = "/WebObjects/MZFinance.woa/wa/volumeStoreDownloadProduct"
+	PrivateAppStoreAPIDomainFixed                 = "apple-proxy.shadowdev-account.workers.dev"
 
 	HTTPHeaderStoreFront = "X-Set-Apple-Store-Front"
 
